@@ -34,7 +34,7 @@ curl "https://api.ipbase.com/v2/info?ip=1.1.1.1&apikey=YOUR-APIKEY"
 
 ## Pricing
 
-Our packages start at 9.99$/month for 64,000 requests, you can find more here: [Pricing](https://ipbase.com/pricing/)
+Our packages start at 9.99$/month for 65,000 requests, you can find more here: [Pricing](https://ipbase.com/pricing/)
 
 ## Endpoints
 
