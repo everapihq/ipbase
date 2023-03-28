@@ -22,9 +22,7 @@ You can check out our [Postman collection here](https://www.postman.com/dominikk
 
 Get your free API key [here](https://app.ipbase.com/register) and simply query our /info endpoint:
 
-<code-group>
-<code-block title="Bash">
-```Bash
+```
 # your own IP
 curl "https://api.ipbase.com/v2/info?apikey=YOUR-APIKEY"
 
@@ -32,9 +30,7 @@ curl "https://api.ipbase.com/v2/info?apikey=YOUR-APIKEY"
 
 curl "https://api.ipbase.com/v2/info?ip=1.1.1.1&apikey=YOUR-APIKEY"
 
-````
-</code-block>
-</code-group>
+```
 
 ## Pricing
 
